@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Justin Bonkoungou 👋</h1>
+<h1 align="center">Hi, I'm Justin BONKOUNGOU 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | AI Agents & Generative AI</h3>
 
 <p align="center">
