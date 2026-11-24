@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Justin BONKOUNGOU 👋</h1>
+<h1 align="center">Hi, I'm Justin BONKOUNGOU</h1>
 <h3 align="center">AI Agent Engineer · Software Engineer · Cloud & DevOps</h3>
 
 <p align="center">
   <a href="https://me.bonkoungoutech.com"><img src="https://img.shields.io/badge/Portfolio-me.bonkoungoutech.com-000000?style=flat&logo=astro&logoColor=white"/></a>
-  <a href="mailto:justin.bonkoungou@bonkoungoutech.com"><img src="https://img.shields.io/badge/Email-justin.bonkoungou%40bonkoungoutech.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/justin-bonkoungou-33a9b8284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20USA%20%7C%20Canada-2ea44f?style=flat"/>
 </p>
 
 <p align="center">
@@ -16,12 +14,9 @@
 
 ### About Me
 
-- I build AI agents that reason through tasks, call tools and APIs, ask for human approval before acting, and run real workflows in production.
-- 🚀 I work across the whole stack: agent architecture, backend, frontend, and deployment with Docker, Traefik, Linux, and GitHub Actions.
-- 🌱 Learning networking and cybersecurity, especially how to apply security principles to AI systems and agent architectures.
-- 🎓 Engineering Degree in Computer Science (Université Aube Nouvelle) · Certificate in AI Agents and Agentic AI (Coursera / Vanderbilt, 2026)
-- 📱 Started in 2018 with self-taught Android apps in Java.
-- 🌍 French (native) · English (professional) · Based in Ouagadougou, Burkina Faso, open to remote roles, the USA, and Canada
+I'm a software engineer passionate about building intelligent systems, AI agents, robotics, and scalable software solutions. I enjoy working at the intersection of AI, software engineering, and infrastructure, turning complex ideas into practical, production-ready systems.
+
+My interests include agentic AI, robotics, distributed systems, cloud infrastructure, and building technology that solves real-world problems.
 
 ---
 
@@ -29,10 +24,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**BONKOUNGOU COGNITIVE**](https://cognitive.bonkoungoutech.com) | Realtime French voice agent for Android that answers questions, calls contacts, drafts messages, and sets alarms through on-device LLM tools. Version 2.0 of my first Java app on [Google Play](https://play.google.com/store/apps/details?id=com.bonkoungousoft.yam.bonkoungoucognitive). | React Native, Expo, Kotlin, Gemini Live, Node.js, PostgreSQL |
 | [**BONKOUNGOU CODE**](https://code.bonkoungoutech.com) | Hosted AI coding agent for the terminal and the web: isolated Docker sandboxes, a live view of the agent's computer, user-supplied MCP servers, and usage billing in FCFA. | TypeScript, Bun, AI Agents, MCP, Docker |
+| [**BONKOUNGOU COGNITIVE**](https://cognitive.bonkoungoutech.com) | Realtime French voice agent for Android that answers questions, calls contacts, drafts messages, and sets alarms through on-device LLM tools. Version 2.0 of my first Java app on [Google Play](https://play.google.com/store/apps/details?id=com.bonkoungousoft.yam.bonkoungoucognitive). | React Native, Expo, Kotlin, Gemini Live, Node.js, PostgreSQL |
 | [**YamHub**](https://yamhub.bonkoungoutech.com) | Subscription education platform with courses, exercises, and corrected past exams across several countries. Grew out of my exam-prep app [Math BAC D](https://play.google.com/store/apps/details?id=com.bonkoungousoft.mathbacd). | React Native, Expo, React, Node.js, PostgreSQL |
-| [**BONKOUNGOU SPOS**](https://spos.bonkoungoutech.com) | Multi-tenant point-of-sale SaaS for West African retailers: checkout, barcodes, per-variant inventory, sales reports, and team workspaces. | React, TypeScript, Node.js, Express, MySQL |
 
 More on my portfolio: **[me.bonkoungoutech.com](https://me.bonkoungoutech.com)**
 
