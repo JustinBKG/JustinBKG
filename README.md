@@ -6,10 +6,6 @@
   <a href="https://www.linkedin.com/in/justin-bonkoungou-33a9b8284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  I build AI agents that use tools, act safely, and run in production, plus the software and infrastructure around them.
-</p>
-
 ---
 
 ### About Me
