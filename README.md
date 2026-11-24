@@ -24,8 +24,6 @@ My interests include agentic AI, robotics, distributed systems, cloud infrastruc
 | [**BONKOUNGOU COGNITIVE**](https://cognitive.bonkoungoutech.com) | Realtime French voice agent for Android that answers questions, calls contacts, drafts messages, and sets alarms through on-device LLM tools. Version 2.0 of my first Java app on [Google Play](https://play.google.com/store/apps/details?id=com.bonkoungousoft.yam.bonkoungoucognitive). | React Native, Expo, Kotlin, Gemini Live, Node.js, PostgreSQL |
 | [**YamHub**](https://yamhub.bonkoungoutech.com) | Subscription education platform with courses, exercises, and corrected past exams across several countries. Grew out of my exam-prep app [Math BAC D](https://play.google.com/store/apps/details?id=com.bonkoungousoft.mathbacd). | React Native, Expo, React, Node.js, PostgreSQL |
 
-More on my portfolio: **[me.bonkoungoutech.com](https://me.bonkoungoutech.com)**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -98,5 +96,3 @@ More on my portfolio: **[me.bonkoungoutech.com](https://me.bonkoungoutech.com)**
 </p>
 
 ---
-
-<p align="center"><i>Thanks for stopping by! See more on <a href="https://me.bonkoungoutech.com">my portfolio</a> or reach out.</i></p>
