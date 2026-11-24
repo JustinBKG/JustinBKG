@@ -16,8 +16,7 @@
 
 ### About Me
 
-- 🤖 I build AI agents that reason through tasks, call tools and APIs, ask for human approval before acting, and run real workflows in production.
-- 💼 Full-Stack Developer Intern at **SM Protection Global Solution** (since Jun 2026); previously Full-Stack & AI Developer Intern at **YAM Technology**, where I built a customer-service agent with LangGraph, Claude, and FastAPI.
+- I build AI agents that reason through tasks, call tools and APIs, ask for human approval before acting, and run real workflows in production.
 - 🚀 I work across the whole stack: agent architecture, backend, frontend, and deployment with Docker, Traefik, Linux, and GitHub Actions.
 - 🌱 Learning networking and cybersecurity, especially how to apply security principles to AI systems and agent architectures.
 - 🎓 Engineering Degree in Computer Science (Université Aube Nouvelle) · Certificate in AI Agents and Agentic AI (Coursera / Vanderbilt, 2026)
